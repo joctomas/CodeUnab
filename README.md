@@ -31,7 +31,7 @@
 - [Seguridad de la Información](#seguridad-de-la-información)
 
 ##Fundamentos de Programación
-> Nada aún  ... contribuye :wink:
+- [Controles](https://github.com/Stroncod/Controles.Funda) | 2S 2014
 
 ##Modelado y Programación
 > Nada aún  ... contribuye :wink:
