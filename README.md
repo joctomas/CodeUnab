@@ -5,11 +5,10 @@
 	<br>
 	<br>
 </h1>
-> 
 
 
 - [Que es esto?](codeunab.md)
-- [Como constribuir](constribuir.md)
+- [Como contribuir](contribuir.md)
 
 ##Malla de la Carrera
 - [Fundamentos de Programación](#fundamentos-de-programación)
